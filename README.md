@@ -16,8 +16,8 @@ For a detailed explanation of the design and thought process, please see [APPROA
 
 1.  **Clone the repository**:
     ```bash
-    git clone <repository-url>
-    cd instavise_textbook_pipeline
+    git clone https://github.com/mahinigam/automated-textbook-scraper.git
+    cd automated-textbook-scraper/instavise_textbook_pipeline
     ```
 
 2.  **Install dependencies**:
@@ -33,7 +33,12 @@ For a detailed explanation of the design and thought process, please see [APPROA
 ## Usage
 
 ### Running the Pipeline
-You can run the full pipeline using the demo notebook:
+You can run the full pipeline using the python script:
+```bash
+python3 -m src.pipeline
+```
+
+Or using the demo notebook:
 `notebooks/demo_pipeline.ipynb`
 
 ### Running Tests

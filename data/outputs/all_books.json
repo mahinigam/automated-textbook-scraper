@@ -1,0 +1,98 @@
+[
+  {
+    "book_id": "jemh101",
+    "metadata": {
+      "board": "CBSE",
+      "class": "10",
+      "subject": "Mathematics",
+      "title": "Real Numbers 1"
+    },
+    "chapters": [
+      {
+        "chapter_no": 1,
+        "chapter_name": "A N   R",
+        "start_page": 9,
+        "end_page": 9,
+        "source_strategy": "fontsize"
+      }
+    ]
+  },
+  {
+    "book_id": "jemh102",
+    "metadata": {
+      "board": "CBSE",
+      "class": "10",
+      "subject": "Mathematics",
+      "title": "10 Mathematics"
+    },
+    "chapters": [
+      {
+        "chapter_no": 1,
+        "chapter_name": "",
+        "start_page": 11,
+        "end_page": 14,
+        "source_strategy": "fontsize"
+      }
+    ]
+  },
+  {
+    "book_id": "jemh1ps",
+    "metadata": {
+      "board": "CBSE",
+      "class": "10",
+      "subject": "Mathematics",
+      "title": "Mathematics"
+    },
+    "chapters": [
+      {
+        "chapter_no": 1,
+        "chapter_name": "Foreword",
+        "start_page": 3,
+        "end_page": 4,
+        "source_strategy": "fontsize"
+      },
+      {
+        "chapter_no": 2,
+        "chapter_name": "Rationalisation of Content in the Textbooks",
+        "start_page": 5,
+        "end_page": 6,
+        "source_strategy": "fontsize"
+      },
+      {
+        "chapter_no": 3,
+        "chapter_name": "Preface",
+        "start_page": 7,
+        "end_page": 8,
+        "source_strategy": "fontsize"
+      },
+      {
+        "chapter_no": 4,
+        "chapter_name": "Textbook Development Committee",
+        "start_page": 9,
+        "end_page": 9,
+        "source_strategy": "fontsize"
+      },
+      {
+        "chapter_no": 5,
+        "chapter_name": "Acknowledgements",
+        "start_page": 10,
+        "end_page": 10,
+        "source_strategy": "fontsize"
+      },
+      {
+        "chapter_no": 6,
+        "chapter_name": "Contents",
+        "start_page": 11,
+        "end_page": 13,
+        "source_strategy": "fontsize"
+      },
+      {
+        "chapter_no": 7,
+        "chapter_name": "Constitution of India",
+        "start_page": 14,
+        "end_page": 14,
+        "source_strategy": "fontsize"
+      }
+    ]
+  }
+]

@@ -1,0 +1,5454 @@
+[
+  {
+    "page_num": 1,
+    "chars": [
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 19.991999999999997,
+        "upright": 1.0,
+        "x0": 100.0,
+        "y0": 695.032,
+        "x1": 119.99199999999999,
+        "y1": 719.032,
+        "width": 19.99199999999999,
+        "height": 24.0,
+        "size": 24.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "M",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 72.96799999999996,
+        "bottom": 96.96799999999996,
+        "doctop": 72.96799999999996
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 13.344000000000001,
+        "upright": 1.0,
+        "x0": 119.99199999999999,
+        "y0": 695.032,
+        "x1": 133.33599999999998,
+        "y1": 719.032,
+        "width": 13.343999999999994,
+        "height": 24.0,
+        "size": 24.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "a",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 72.96799999999996,
+        "bottom": 96.96799999999996,
+        "doctop": 72.96799999999996
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 7.992000000000001,
+        "upright": 1.0,
+        "x0": 133.336,
+        "y0": 695.032,
+        "x1": 141.328,
+        "y1": 719.032,
+        "width": 7.99199999999999,
+        "height": 24.0,
+        "size": 24.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "t",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 72.96799999999996,
+        "bottom": 96.96799999999996,
+        "doctop": 72.96799999999996
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 14.664,
+        "upright": 1.0,
+        "x0": 141.328,
+        "y0": 695.032,
+        "x1": 155.992,
+        "y1": 719.032,
+        "width": 14.663999999999987,
+        "height": 24.0,
+        "size": 24.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "h",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 72.96799999999996,
+        "bottom": 96.96799999999996,
+        "doctop": 72.96799999999996
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 13.344000000000001,
+        "upright": 1.0,
+        "x0": 155.99200000000002,
+        "y0": 695.032,
+        "x1": 169.336,
+        "y1": 719.032,
+        "width": 13.343999999999994,
+        "height": 24.0,
+        "size": 24.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "e",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 72.96799999999996,
+        "bottom": 96.96799999999996,
+        "doctop": 72.96799999999996
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 21.336,
+        "upright": 1.0,
+        "x0": 169.336,
+        "y0": 695.032,
+        "x1": 190.67200000000003,
+        "y1": 719.032,
+        "width": 21.336000000000013,
+        "height": 24.0,
+        "size": 24.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "m",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 72.96799999999996,
+        "bottom": 96.96799999999996,
+        "doctop": 72.96799999999996
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 13.344000000000001,
+        "upright": 1.0,
+        "x0": 190.67200000000003,
+        "y0": 695.032,
+        "x1": 204.01600000000002,
+        "y1": 719.032,
+        "width": 13.343999999999994,
+        "height": 24.0,
+        "size": 24.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "a",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 72.96799999999996,
+        "bottom": 96.96799999999996,
+        "doctop": 72.96799999999996
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 7.992000000000001,
+        "upright": 1.0,
+        "x0": 204.01600000000002,
+        "y0": 695.032,
+        "x1": 212.008,
+        "y1": 719.032,
+        "width": 7.99199999999999,
+        "height": 24.0,
+        "size": 24.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "t",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 72.96799999999996,
+        "bottom": 96.96799999999996,
+        "doctop": 72.96799999999996
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 212.00800000000004,
+        "y0": 695.032,
+        "x1": 218.68000000000004,
+        "y1": 719.032,
+        "width": 6.671999999999997,
+        "height": 24.0,
+        "size": 24.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "i",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 72.96799999999996,
+        "bottom": 96.96799999999996,
+        "doctop": 72.96799999999996
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 13.344000000000001,
+        "upright": 1.0,
+        "x0": 218.68,
+        "y0": 695.032,
+        "x1": 232.024,
+        "y1": 719.032,
+        "width": 13.343999999999994,
+        "height": 24.0,
+        "size": 24.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "c",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 72.96799999999996,
+        "bottom": 96.96799999999996,
+        "doctop": 72.96799999999996
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 13.344000000000001,
+        "upright": 1.0,
+        "x0": 232.02400000000003,
+        "y0": 695.032,
+        "x1": 245.36800000000002,
+        "y1": 719.032,
+        "width": 13.343999999999994,
+        "height": 24.0,
+        "size": 24.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "s",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 72.96799999999996,
+        "bottom": 96.96799999999996,
+        "doctop": 72.96799999999996
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 245.36800000000002,
+        "y0": 695.032,
+        "x1": 252.04000000000002,
+        "y1": 719.032,
+        "width": 6.671999999999997,
+        "height": 24.0,
+        "size": 24.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": " ",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 72.96799999999996,
+        "bottom": 96.96799999999996,
+        "doctop": 72.96799999999996
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 17.328,
+        "upright": 1.0,
+        "x0": 252.04000000000002,
+        "y0": 695.032,
+        "x1": 269.368,
+        "y1": 719.032,
+        "width": 17.327999999999975,
+        "height": 24.0,
+        "size": 24.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "C",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 72.96799999999996,
+        "bottom": 96.96799999999996,
+        "doctop": 72.96799999999996
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 269.36800000000005,
+        "y0": 695.032,
+        "x1": 276.0400000000001,
+        "y1": 719.032,
+        "width": 6.6720000000000255,
+        "height": 24.0,
+        "size": 24.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "l",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 72.96799999999996,
+        "bottom": 96.96799999999996,
+        "doctop": 72.96799999999996
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 13.344000000000001,
+        "upright": 1.0,
+        "x0": 276.04,
+        "y0": 695.032,
+        "x1": 289.384,
+        "y1": 719.032,
+        "width": 13.343999999999994,
+        "height": 24.0,
+        "size": 24.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "a",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 72.96799999999996,
+        "bottom": 96.96799999999996,
+        "doctop": 72.96799999999996
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 13.344000000000001,
+        "upright": 1.0,
+        "x0": 289.384,
+        "y0": 695.032,
+        "x1": 302.728,
+        "y1": 719.032,
+        "width": 13.343999999999994,
+        "height": 24.0,
+        "size": 24.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "s",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 72.96799999999996,
+        "bottom": 96.96799999999996,
+        "doctop": 72.96799999999996
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 13.344000000000001,
+        "upright": 1.0,
+        "x0": 302.728,
+        "y0": 695.032,
+        "x1": 316.072,
+        "y1": 719.032,
+        "width": 13.343999999999994,
+        "height": 24.0,
+        "size": 24.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "s",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 72.96799999999996,
+        "bottom": 96.96799999999996,
+        "doctop": 72.96799999999996
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 316.072,
+        "y0": 695.032,
+        "x1": 322.744,
+        "y1": 719.032,
+        "width": 6.6720000000000255,
+        "height": 24.0,
+        "size": 24.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": " ",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 72.96799999999996,
+        "bottom": 96.96799999999996,
+        "doctop": 72.96799999999996
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 13.344000000000001,
+        "upright": 1.0,
+        "x0": 322.744,
+        "y0": 695.032,
+        "x1": 336.088,
+        "y1": 719.032,
+        "width": 13.343999999999994,
+        "height": 24.0,
+        "size": 24.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "1",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 72.96799999999996,
+        "bottom": 96.96799999999996,
+        "doctop": 72.96799999999996
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 13.344000000000001,
+        "upright": 1.0,
+        "x0": 336.08799999999997,
+        "y0": 695.032,
+        "x1": 349.43199999999996,
+        "y1": 719.032,
+        "width": 13.343999999999994,
+        "height": 24.0,
+        "size": 24.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "0",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 72.96799999999996,
+        "bottom": 96.96799999999996,
+        "doctop": 72.96799999999996
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 8.004000000000001,
+        "upright": 1.0,
+        "x0": 100.0,
+        "y0": 647.516,
+        "x1": 108.004,
+        "y1": 659.516,
+        "width": 8.004000000000005,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "B",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 132.48400000000004
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 108.004,
+        "y0": 647.516,
+        "x1": 114.676,
+        "y1": 659.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "o",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 132.48400000000004
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 114.676,
+        "y0": 647.516,
+        "x1": 121.348,
+        "y1": 659.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "a",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 132.48400000000004
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.9960000000000004,
+        "upright": 1.0,
+        "x0": 121.348,
+        "y0": 647.516,
+        "x1": 125.344,
+        "y1": 659.516,
+        "width": 3.995999999999995,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "r",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 132.48400000000004
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 125.344,
+        "y0": 647.516,
+        "x1": 132.016,
+        "y1": 659.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "d",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 132.48400000000004
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 132.01600000000002,
+        "y0": 647.516,
+        "x1": 135.35200000000003,
+        "y1": 659.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": ":",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 132.48400000000004
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 135.352,
+        "y0": 647.516,
+        "x1": 138.68800000000002,
+        "y1": 659.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": " ",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 132.48400000000004
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 8.664,
+        "upright": 1.0,
+        "x0": 138.688,
+        "y0": 647.516,
+        "x1": 147.35199999999998,
+        "y1": 659.516,
+        "width": 8.663999999999987,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "C",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 132.48400000000004
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 8.004000000000001,
+        "upright": 1.0,
+        "x0": 147.352,
+        "y0": 647.516,
+        "x1": 155.356,
+        "y1": 659.516,
+        "width": 8.00399999999999,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "B",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 132.48400000000004
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 8.004000000000001,
+        "upright": 1.0,
+        "x0": 155.356,
+        "y0": 647.516,
+        "x1": 163.35999999999999,
+        "y1": 659.516,
+        "width": 8.00399999999999,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "S",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 132.48400000000004
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 8.004000000000001,
+        "upright": 1.0,
+        "x0": 163.36,
+        "y0": 647.516,
+        "x1": 171.364,
+        "y1": 659.516,
+        "width": 8.00399999999999,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 1.0,
+        "ncs": "DeviceGray",
+        "text": "E",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 132.48400000000004
+      }
+    ]
+  },
+  {
+    "page_num": 2,
+    "chars": [
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 10.998,
+        "upright": 1.0,
+        "x0": 100.0,
+        "y0": 696.274,
+        "x1": 110.998,
+        "y1": 714.274,
+        "width": 10.998000000000005,
+        "height": 18.0,
+        "size": 18.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "T",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 77.726,
+        "bottom": 95.726,
+        "doctop": 869.726
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 10.008000000000001,
+        "upright": 1.0,
+        "x0": 110.998,
+        "y0": 696.274,
+        "x1": 121.006,
+        "y1": 714.274,
+        "width": 10.007999999999996,
+        "height": 18.0,
+        "size": 18.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "a",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 77.726,
+        "bottom": 95.726,
+        "doctop": 869.726
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 10.998,
+        "upright": 1.0,
+        "x0": 121.006,
+        "y0": 696.274,
+        "x1": 132.004,
+        "y1": 714.274,
+        "width": 10.99799999999999,
+        "height": 18.0,
+        "size": 18.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "b",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 77.726,
+        "bottom": 95.726,
+        "doctop": 869.726
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 5.0040000000000004,
+        "upright": 1.0,
+        "x0": 132.004,
+        "y0": 696.274,
+        "x1": 137.00799999999998,
+        "y1": 714.274,
+        "width": 5.003999999999991,
+        "height": 18.0,
+        "size": 18.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "l",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 77.726,
+        "bottom": 95.726,
+        "doctop": 869.726
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 10.008000000000001,
+        "upright": 1.0,
+        "x0": 137.00799999999998,
+        "y0": 696.274,
+        "x1": 147.016,
+        "y1": 714.274,
+        "width": 10.00800000000001,
+        "height": 18.0,
+        "size": 18.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "e",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 77.726,
+        "bottom": 95.726,
+        "doctop": 869.726
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 5.0040000000000004,
+        "upright": 1.0,
+        "x0": 147.016,
+        "y0": 696.274,
+        "x1": 152.01999999999998,
+        "y1": 714.274,
+        "width": 5.003999999999991,
+        "height": 18.0,
+        "size": 18.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": " ",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 77.726,
+        "bottom": 95.726,
+        "doctop": 869.726
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 10.998,
+        "upright": 1.0,
+        "x0": 152.01999999999998,
+        "y0": 696.274,
+        "x1": 163.01799999999997,
+        "y1": 714.274,
+        "width": 10.99799999999999,
+        "height": 18.0,
+        "size": 18.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "o",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 77.726,
+        "bottom": 95.726,
+        "doctop": 869.726
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 5.994000000000001,
+        "upright": 1.0,
+        "x0": 163.018,
+        "y0": 696.274,
+        "x1": 169.012,
+        "y1": 714.274,
+        "width": 5.994,
+        "height": 18.0,
+        "size": 18.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "f",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 77.726,
+        "bottom": 95.726,
+        "doctop": 869.726
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 5.0040000000000004,
+        "upright": 1.0,
+        "x0": 169.012,
+        "y0": 696.274,
+        "x1": 174.016,
+        "y1": 714.274,
+        "width": 5.003999999999991,
+        "height": 18.0,
+        "size": 18.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": " ",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 77.726,
+        "bottom": 95.726,
+        "doctop": 869.726
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 12.995999999999999,
+        "upright": 1.0,
+        "x0": 174.01600000000002,
+        "y0": 696.274,
+        "x1": 187.01200000000003,
+        "y1": 714.274,
+        "width": 12.99600000000001,
+        "height": 18.0,
+        "size": 18.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "C",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 77.726,
+        "bottom": 95.726,
+        "doctop": 869.726
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 10.998,
+        "upright": 1.0,
+        "x0": 187.012,
+        "y0": 696.274,
+        "x1": 198.01,
+        "y1": 714.274,
+        "width": 10.99799999999999,
+        "height": 18.0,
+        "size": 18.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "o",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 77.726,
+        "bottom": 95.726,
+        "doctop": 869.726
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 10.998,
+        "upright": 1.0,
+        "x0": 198.01,
+        "y0": 696.274,
+        "x1": 209.00799999999998,
+        "y1": 714.274,
+        "width": 10.99799999999999,
+        "height": 18.0,
+        "size": 18.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "n",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 77.726,
+        "bottom": 95.726,
+        "doctop": 869.726
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 5.994000000000001,
+        "upright": 1.0,
+        "x0": 209.008,
+        "y0": 696.274,
+        "x1": 215.002,
+        "y1": 714.274,
+        "width": 5.994,
+        "height": 18.0,
+        "size": 18.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "t",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 77.726,
+        "bottom": 95.726,
+        "doctop": 869.726
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 10.008000000000001,
+        "upright": 1.0,
+        "x0": 215.002,
+        "y0": 696.274,
+        "x1": 225.01000000000002,
+        "y1": 714.274,
+        "width": 10.00800000000001,
+        "height": 18.0,
+        "size": 18.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "e",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 77.726,
+        "bottom": 95.726,
+        "doctop": 869.726
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 10.998,
+        "upright": 1.0,
+        "x0": 225.01,
+        "y0": 696.274,
+        "x1": 236.00799999999998,
+        "y1": 714.274,
+        "width": 10.99799999999999,
+        "height": 18.0,
+        "size": 18.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "n",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 77.726,
+        "bottom": 95.726,
+        "doctop": 869.726
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 5.994000000000001,
+        "upright": 1.0,
+        "x0": 236.008,
+        "y0": 696.274,
+        "x1": 242.002,
+        "y1": 714.274,
+        "width": 5.994,
+        "height": 18.0,
+        "size": 18.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "t",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 77.726,
+        "bottom": 95.726,
+        "doctop": 869.726
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 10.008000000000001,
+        "upright": 1.0,
+        "x0": 242.002,
+        "y0": 696.274,
+        "x1": 252.01000000000002,
+        "y1": 714.274,
+        "width": 10.00800000000001,
+        "height": 18.0,
+        "size": 18.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "s",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 77.726,
+        "bottom": 95.726,
+        "doctop": 869.726
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 8.664,
+        "upright": 1.0,
+        "x0": 100.0,
+        "y0": 647.516,
+        "x1": 108.664,
+        "y1": 659.516,
+        "width": 8.664000000000001,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "C",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 108.664,
+        "y0": 647.516,
+        "x1": 115.336,
+        "y1": 659.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "h",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 115.336,
+        "y0": 647.516,
+        "x1": 122.008,
+        "y1": 659.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "a",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 122.00800000000001,
+        "y0": 647.516,
+        "x1": 128.68,
+        "y1": 659.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "p",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 128.68,
+        "y0": 647.516,
+        "x1": 132.01600000000002,
+        "y1": 659.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "t",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 132.01600000000002,
+        "y0": 647.516,
+        "x1": 138.68800000000002,
+        "y1": 659.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "e",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.9960000000000004,
+        "upright": 1.0,
+        "x0": 138.688,
+        "y0": 647.516,
+        "x1": 142.684,
+        "y1": 659.516,
+        "width": 3.9960000000000093,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "r",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 142.684,
+        "y0": 647.516,
+        "x1": 146.02,
+        "y1": 659.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": " ",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 146.02,
+        "y0": 647.516,
+        "x1": 152.692,
+        "y1": 659.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "1",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 152.692,
+        "y0": 647.516,
+        "x1": 156.02800000000002,
+        "y1": 659.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": ":",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 156.02800000000002,
+        "y0": 647.516,
+        "x1": 159.36400000000003,
+        "y1": 659.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": " ",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 8.664,
+        "upright": 1.0,
+        "x0": 159.364,
+        "y0": 647.516,
+        "x1": 168.028,
+        "y1": 659.516,
+        "width": 8.663999999999987,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "R",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 168.02800000000002,
+        "y0": 647.516,
+        "x1": 174.70000000000002,
+        "y1": 659.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "e",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 174.7,
+        "y0": 647.516,
+        "x1": 181.37199999999999,
+        "y1": 659.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "a",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 2.664,
+        "upright": 1.0,
+        "x0": 181.372,
+        "y0": 647.516,
+        "x1": 184.036,
+        "y1": 659.516,
+        "width": 2.6639999999999873,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "l",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 184.036,
+        "y0": 647.516,
+        "x1": 187.372,
+        "y1": 659.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": " ",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 8.664,
+        "upright": 1.0,
+        "x0": 187.372,
+        "y0": 647.516,
+        "x1": 196.036,
+        "y1": 659.516,
+        "width": 8.663999999999987,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "N",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 196.036,
+        "y0": 647.516,
+        "x1": 202.708,
+        "y1": 659.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "u",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 9.995999999999999,
+        "upright": 1.0,
+        "x0": 202.708,
+        "y0": 647.516,
+        "x1": 212.704,
+        "y1": 659.516,
+        "width": 9.99600000000001,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "m",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 212.704,
+        "y0": 647.516,
+        "x1": 219.376,
+        "y1": 659.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "b",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 219.37599999999998,
+        "y0": 647.516,
+        "x1": 226.04799999999997,
+        "y1": 659.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "e",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.9960000000000004,
+        "upright": 1.0,
+        "x0": 226.048,
+        "y0": 647.516,
+        "x1": 230.044,
+        "y1": 659.516,
+        "width": 3.9960000000000093,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "r",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.0,
+        "upright": 1.0,
+        "x0": 230.04399999999998,
+        "y0": 647.516,
+        "x1": 236.04399999999998,
+        "y1": 659.516,
+        "width": 6.0,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "s",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 236.04399999999998,
+        "y0": 647.516,
+        "x1": 239.38,
+        "y1": 659.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": " ",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 239.38,
+        "y0": 647.516,
+        "x1": 242.716,
+        "y1": 659.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": ".",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 242.716,
+        "y0": 647.516,
+        "x1": 246.05200000000002,
+        "y1": 659.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": ".",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 246.05200000000002,
+        "y0": 647.516,
+        "x1": 249.38800000000003,
+        "y1": 659.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": ".",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 249.38800000000003,
+        "y0": 647.516,
+        "x1": 252.72400000000005,
+        "y1": 659.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": ".",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 252.72400000000005,
+        "y0": 647.516,
+        "x1": 256.06000000000006,
+        "y1": 659.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": ".",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 256.06000000000006,
+        "y0": 647.516,
+        "x1": 259.3960000000001,
+        "y1": 659.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": ".",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 259.3960000000001,
+        "y0": 647.516,
+        "x1": 262.7320000000001,
+        "y1": 659.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": ".",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 262.7320000000001,
+        "y0": 647.516,
+        "x1": 266.0680000000001,
+        "y1": 659.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": " ",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 266.0680000000001,
+        "y0": 647.516,
+        "x1": 272.7400000000001,
+        "y1": 659.516,
+        "width": 6.6720000000000255,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "3",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 132.48400000000004,
+        "bottom": 144.48400000000004,
+        "doctop": 924.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 8.664,
+        "upright": 1.0,
+        "x0": 100.0,
+        "y0": 627.516,
+        "x1": 108.664,
+        "y1": 639.516,
+        "width": 8.664000000000001,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "C",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 108.664,
+        "y0": 627.516,
+        "x1": 115.336,
+        "y1": 639.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "h",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 115.336,
+        "y0": 627.516,
+        "x1": 122.008,
+        "y1": 639.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "a",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 122.00800000000001,
+        "y0": 627.516,
+        "x1": 128.68,
+        "y1": 639.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "p",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 128.68,
+        "y0": 627.516,
+        "x1": 132.01600000000002,
+        "y1": 639.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "t",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 132.01600000000002,
+        "y0": 627.516,
+        "x1": 138.68800000000002,
+        "y1": 639.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "e",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.9960000000000004,
+        "upright": 1.0,
+        "x0": 138.688,
+        "y0": 627.516,
+        "x1": 142.684,
+        "y1": 639.516,
+        "width": 3.9960000000000093,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "r",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 142.684,
+        "y0": 627.516,
+        "x1": 146.02,
+        "y1": 639.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": " ",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 146.02,
+        "y0": 627.516,
+        "x1": 152.692,
+        "y1": 639.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "2",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 152.692,
+        "y0": 627.516,
+        "x1": 156.02800000000002,
+        "y1": 639.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": ":",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 156.02800000000002,
+        "y0": 627.516,
+        "x1": 159.36400000000003,
+        "y1": 639.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": " ",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 8.004000000000001,
+        "upright": 1.0,
+        "x0": 159.364,
+        "y0": 627.516,
+        "x1": 167.368,
+        "y1": 639.516,
+        "width": 8.00399999999999,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "P",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 167.368,
+        "y0": 627.516,
+        "x1": 174.04,
+        "y1": 639.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "o",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 2.664,
+        "upright": 1.0,
+        "x0": 174.04000000000002,
+        "y0": 627.516,
+        "x1": 176.704,
+        "y1": 639.516,
+        "width": 2.6639999999999873,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "l",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.0,
+        "upright": 1.0,
+        "x0": 176.704,
+        "y0": 627.516,
+        "x1": 182.704,
+        "y1": 639.516,
+        "width": 6.0,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "y",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 182.704,
+        "y0": 627.516,
+        "x1": 189.376,
+        "y1": 639.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "n",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 189.376,
+        "y0": 627.516,
+        "x1": 196.048,
+        "y1": 639.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "o",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 9.995999999999999,
+        "upright": 1.0,
+        "x0": 196.048,
+        "y0": 627.516,
+        "x1": 206.044,
+        "y1": 639.516,
+        "width": 9.99600000000001,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "m",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 2.664,
+        "upright": 1.0,
+        "x0": 206.04399999999998,
+        "y0": 627.516,
+        "x1": 208.70799999999997,
+        "y1": 639.516,
+        "width": 2.6639999999999873,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "i",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 208.708,
+        "y0": 627.516,
+        "x1": 215.38,
+        "y1": 639.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "a",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 2.664,
+        "upright": 1.0,
+        "x0": 215.38,
+        "y0": 627.516,
+        "x1": 218.04399999999998,
+        "y1": 639.516,
+        "width": 2.6639999999999873,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "l",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.0,
+        "upright": 1.0,
+        "x0": 218.04399999999998,
+        "y0": 627.516,
+        "x1": 224.04399999999998,
+        "y1": 639.516,
+        "width": 6.0,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "s",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 224.04399999999998,
+        "y0": 627.516,
+        "x1": 227.38,
+        "y1": 639.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": " ",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 227.38,
+        "y0": 627.516,
+        "x1": 230.716,
+        "y1": 639.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": ".",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 230.716,
+        "y0": 627.516,
+        "x1": 234.05200000000002,
+        "y1": 639.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": ".",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 234.05200000000002,
+        "y0": 627.516,
+        "x1": 237.38800000000003,
+        "y1": 639.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": ".",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 237.38800000000003,
+        "y0": 627.516,
+        "x1": 240.72400000000005,
+        "y1": 639.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": ".",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 240.72400000000005,
+        "y0": 627.516,
+        "x1": 244.06000000000006,
+        "y1": 639.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": ".",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 244.06000000000006,
+        "y0": 627.516,
+        "x1": 247.39600000000007,
+        "y1": 639.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": ".",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 247.39600000000007,
+        "y0": 627.516,
+        "x1": 250.73200000000008,
+        "y1": 639.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": ".",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 250.73200000000008,
+        "y0": 627.516,
+        "x1": 254.0680000000001,
+        "y1": 639.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": ".",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 254.0680000000001,
+        "y0": 627.516,
+        "x1": 257.4040000000001,
+        "y1": 639.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": " ",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 257.4040000000001,
+        "y0": 627.516,
+        "x1": 264.07600000000014,
+        "y1": 639.516,
+        "width": 6.6720000000000255,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 2.0,
+        "ncs": "DeviceGray",
+        "text": "5",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 152.48400000000004,
+        "bottom": 164.48400000000004,
+        "doctop": 944.484
+      }
+    ]
+  },
+  {
+    "page_num": 3,
+    "chars": [
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 14.44,
+        "upright": 1.0,
+        "x0": 100.0,
+        "y0": 695.86,
+        "x1": 114.44,
+        "y1": 715.86,
+        "width": 14.439999999999998,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "C",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 76.13999999999999,
+        "bottom": 96.13999999999999,
+        "doctop": 1660.1399999999999
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 12.219999999999999,
+        "upright": 1.0,
+        "x0": 114.44,
+        "y0": 695.86,
+        "x1": 126.66,
+        "y1": 715.86,
+        "width": 12.219999999999999,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "h",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 76.13999999999999,
+        "bottom": 96.13999999999999,
+        "doctop": 1660.1399999999999
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 11.120000000000001,
+        "upright": 1.0,
+        "x0": 126.66,
+        "y0": 695.86,
+        "x1": 137.78,
+        "y1": 715.86,
+        "width": 11.120000000000005,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "a",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 76.13999999999999,
+        "bottom": 96.13999999999999,
+        "doctop": 1660.1399999999999
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 12.219999999999999,
+        "upright": 1.0,
+        "x0": 137.78,
+        "y0": 695.86,
+        "x1": 150.0,
+        "y1": 715.86,
+        "width": 12.219999999999999,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "p",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 76.13999999999999,
+        "bottom": 96.13999999999999,
+        "doctop": 1660.1399999999999
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 6.66,
+        "upright": 1.0,
+        "x0": 150.0,
+        "y0": 695.86,
+        "x1": 156.66,
+        "y1": 715.86,
+        "width": 6.659999999999997,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "t",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 76.13999999999999,
+        "bottom": 96.13999999999999,
+        "doctop": 1660.1399999999999
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 11.120000000000001,
+        "upright": 1.0,
+        "x0": 156.66,
+        "y0": 695.86,
+        "x1": 167.78,
+        "y1": 715.86,
+        "width": 11.120000000000005,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "e",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 76.13999999999999,
+        "bottom": 96.13999999999999,
+        "doctop": 1660.1399999999999
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 7.78,
+        "upright": 1.0,
+        "x0": 167.78,
+        "y0": 695.86,
+        "x1": 175.56,
+        "y1": 715.86,
+        "width": 7.780000000000001,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "r",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 76.13999999999999,
+        "bottom": 96.13999999999999,
+        "doctop": 1660.1399999999999
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 5.5600000000000005,
+        "upright": 1.0,
+        "x0": 175.56,
+        "y0": 695.86,
+        "x1": 181.12,
+        "y1": 715.86,
+        "width": 5.560000000000002,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": " ",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 76.13999999999999,
+        "bottom": 96.13999999999999,
+        "doctop": 1660.1399999999999
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 11.120000000000001,
+        "upright": 1.0,
+        "x0": 181.12,
+        "y0": 695.86,
+        "x1": 192.24,
+        "y1": 715.86,
+        "width": 11.120000000000005,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "1",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 76.13999999999999,
+        "bottom": 96.13999999999999,
+        "doctop": 1660.1399999999999
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 11.552,
+        "upright": 1.0,
+        "x0": 100.0,
+        "y0": 666.688,
+        "x1": 111.55199999999999,
+        "y1": 682.688,
+        "width": 11.551999999999992,
+        "height": 16.0,
+        "size": 16.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "R",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 109.31200000000001,
+        "bottom": 125.31200000000001,
+        "doctop": 1693.312
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 8.896,
+        "upright": 1.0,
+        "x0": 111.55199999999999,
+        "y0": 666.688,
+        "x1": 120.448,
+        "y1": 682.688,
+        "width": 8.896,
+        "height": 16.0,
+        "size": 16.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "e",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 109.31200000000001,
+        "bottom": 125.31200000000001,
+        "doctop": 1693.312
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 8.896,
+        "upright": 1.0,
+        "x0": 120.44800000000001,
+        "y0": 666.688,
+        "x1": 129.344,
+        "y1": 682.688,
+        "width": 8.895999999999987,
+        "height": 16.0,
+        "size": 16.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "a",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 109.31200000000001,
+        "bottom": 125.31200000000001,
+        "doctop": 1693.312
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 4.448,
+        "upright": 1.0,
+        "x0": 129.344,
+        "y0": 666.688,
+        "x1": 133.792,
+        "y1": 682.688,
+        "width": 4.4480000000000075,
+        "height": 16.0,
+        "size": 16.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "l",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 109.31200000000001,
+        "bottom": 125.31200000000001,
+        "doctop": 1693.312
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 4.448,
+        "upright": 1.0,
+        "x0": 133.792,
+        "y0": 666.688,
+        "x1": 138.24,
+        "y1": 682.688,
+        "width": 4.4480000000000075,
+        "height": 16.0,
+        "size": 16.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": " ",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 109.31200000000001,
+        "bottom": 125.31200000000001,
+        "doctop": 1693.312
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 11.552,
+        "upright": 1.0,
+        "x0": 138.24,
+        "y0": 666.688,
+        "x1": 149.792,
+        "y1": 682.688,
+        "width": 11.551999999999992,
+        "height": 16.0,
+        "size": 16.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "N",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 109.31200000000001,
+        "bottom": 125.31200000000001,
+        "doctop": 1693.312
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 9.776,
+        "upright": 1.0,
+        "x0": 149.792,
+        "y0": 666.688,
+        "x1": 159.568,
+        "y1": 682.688,
+        "width": 9.77600000000001,
+        "height": 16.0,
+        "size": 16.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "u",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 109.31200000000001,
+        "bottom": 125.31200000000001,
+        "doctop": 1693.312
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 14.224,
+        "upright": 1.0,
+        "x0": 159.56799999999998,
+        "y0": 666.688,
+        "x1": 173.79199999999997,
+        "y1": 682.688,
+        "width": 14.22399999999999,
+        "height": 16.0,
+        "size": 16.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "m",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 109.31200000000001,
+        "bottom": 125.31200000000001,
+        "doctop": 1693.312
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 9.776,
+        "upright": 1.0,
+        "x0": 173.792,
+        "y0": 666.688,
+        "x1": 183.568,
+        "y1": 682.688,
+        "width": 9.77600000000001,
+        "height": 16.0,
+        "size": 16.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "b",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 109.31200000000001,
+        "bottom": 125.31200000000001,
+        "doctop": 1693.312
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 8.896,
+        "upright": 1.0,
+        "x0": 183.56799999999998,
+        "y0": 666.688,
+        "x1": 192.464,
+        "y1": 682.688,
+        "width": 8.896000000000015,
+        "height": 16.0,
+        "size": 16.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "e",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 109.31200000000001,
+        "bottom": 125.31200000000001,
+        "doctop": 1693.312
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 6.224,
+        "upright": 1.0,
+        "x0": 192.464,
+        "y0": 666.688,
+        "x1": 198.688,
+        "y1": 682.688,
+        "width": 6.2239999999999895,
+        "height": 16.0,
+        "size": 16.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "r",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 109.31200000000001,
+        "bottom": 125.31200000000001,
+        "doctop": 1693.312
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 8.896,
+        "upright": 1.0,
+        "x0": 198.688,
+        "y0": 666.688,
+        "x1": 207.584,
+        "y1": 682.688,
+        "width": 8.896000000000015,
+        "height": 16.0,
+        "size": 16.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "s",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 109.31200000000001,
+        "bottom": 125.31200000000001,
+        "doctop": 1693.312
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 100.0,
+        "y0": 597.516,
+        "x1": 103.336,
+        "y1": 609.516,
+        "width": 3.3359999999999985,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "I",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 103.336,
+        "y0": 597.516,
+        "x1": 110.008,
+        "y1": 609.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "n",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 110.008,
+        "y0": 597.516,
+        "x1": 113.344,
+        "y1": 609.516,
+        "width": 3.3359999999999985,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "t",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.9960000000000004,
+        "upright": 1.0,
+        "x0": 113.344,
+        "y0": 597.516,
+        "x1": 117.33999999999999,
+        "y1": 609.516,
+        "width": 3.995999999999995,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "r",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 117.34,
+        "y0": 597.516,
+        "x1": 124.012,
+        "y1": 609.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "o",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 124.012,
+        "y0": 597.516,
+        "x1": 130.684,
+        "y1": 609.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "d",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 130.684,
+        "y0": 597.516,
+        "x1": 137.356,
+        "y1": 609.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "u",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.0,
+        "upright": 1.0,
+        "x0": 137.356,
+        "y0": 597.516,
+        "x1": 143.356,
+        "y1": 609.516,
+        "width": 6.0,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "c",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 143.356,
+        "y0": 597.516,
+        "x1": 146.692,
+        "y1": 609.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "t",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 2.664,
+        "upright": 1.0,
+        "x0": 146.692,
+        "y0": 597.516,
+        "x1": 149.356,
+        "y1": 609.516,
+        "width": 2.6639999999999873,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "i",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 149.356,
+        "y0": 597.516,
+        "x1": 156.028,
+        "y1": 609.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "o",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 156.02800000000002,
+        "y0": 597.516,
+        "x1": 162.70000000000002,
+        "y1": 609.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "n",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 162.7,
+        "y0": 597.516,
+        "x1": 166.036,
+        "y1": 609.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": " ",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 166.036,
+        "y0": 597.516,
+        "x1": 169.372,
+        "y1": 609.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "t",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 169.372,
+        "y0": 597.516,
+        "x1": 176.044,
+        "y1": 609.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "o",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 176.04399999999998,
+        "y0": 597.516,
+        "x1": 179.38,
+        "y1": 609.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": " ",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 8.664,
+        "upright": 1.0,
+        "x0": 179.38,
+        "y0": 597.516,
+        "x1": 188.04399999999998,
+        "y1": 609.516,
+        "width": 8.663999999999987,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "R",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 188.04399999999998,
+        "y0": 597.516,
+        "x1": 194.71599999999998,
+        "y1": 609.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "e",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 194.716,
+        "y0": 597.516,
+        "x1": 201.388,
+        "y1": 609.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "a",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 2.664,
+        "upright": 1.0,
+        "x0": 201.38799999999998,
+        "y0": 597.516,
+        "x1": 204.05199999999996,
+        "y1": 609.516,
+        "width": 2.6639999999999873,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "l",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 204.052,
+        "y0": 597.516,
+        "x1": 207.388,
+        "y1": 609.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": " ",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 8.664,
+        "upright": 1.0,
+        "x0": 207.38799999999998,
+        "y0": 597.516,
+        "x1": 216.05199999999996,
+        "y1": 609.516,
+        "width": 8.663999999999987,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "N",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 216.052,
+        "y0": 597.516,
+        "x1": 222.724,
+        "y1": 609.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "u",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 9.995999999999999,
+        "upright": 1.0,
+        "x0": 222.724,
+        "y0": 597.516,
+        "x1": 232.72,
+        "y1": 609.516,
+        "width": 9.99600000000001,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "m",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 232.72,
+        "y0": 597.516,
+        "x1": 239.392,
+        "y1": 609.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "b",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 239.392,
+        "y0": 597.516,
+        "x1": 246.064,
+        "y1": 609.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "e",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.9960000000000004,
+        "upright": 1.0,
+        "x0": 246.064,
+        "y0": 597.516,
+        "x1": 250.06,
+        "y1": 609.516,
+        "width": 3.9960000000000093,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "r",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.0,
+        "upright": 1.0,
+        "x0": 250.06,
+        "y0": 597.516,
+        "x1": 256.06,
+        "y1": 609.516,
+        "width": 6.0,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": "s",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 256.06,
+        "y0": 597.516,
+        "x1": 259.396,
+        "y1": 609.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": ".",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 259.396,
+        "y0": 597.516,
+        "x1": 262.732,
+        "y1": 609.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": ".",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 262.732,
+        "y0": 597.516,
+        "x1": 266.06800000000004,
+        "y1": 609.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 3.0,
+        "ncs": "DeviceGray",
+        "text": ".",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 182.48400000000004,
+        "bottom": 194.48400000000004,
+        "doctop": 1766.484
+      }
+    ]
+  },
+  {
+    "page_num": 4,
+    "chars": [
+      {
+        "fontname": "Helvetica",
+        "adv": 9.995999999999999,
+        "upright": 1.0,
+        "x0": 100.0,
+        "y0": 697.516,
+        "x1": 109.996,
+        "y1": 709.516,
+        "width": 9.995999999999995,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 4.0,
+        "ncs": "DeviceGray",
+        "text": "M",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 82.48400000000004,
+        "bottom": 94.48400000000004,
+        "doctop": 2458.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 109.996,
+        "y0": 697.516,
+        "x1": 116.66799999999999,
+        "y1": 709.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 4.0,
+        "ncs": "DeviceGray",
+        "text": "o",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 82.48400000000004,
+        "bottom": 94.48400000000004,
+        "doctop": 2458.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.9960000000000004,
+        "upright": 1.0,
+        "x0": 116.668,
+        "y0": 697.516,
+        "x1": 120.664,
+        "y1": 709.516,
+        "width": 3.995999999999995,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 4.0,
+        "ncs": "DeviceGray",
+        "text": "r",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 82.48400000000004,
+        "bottom": 94.48400000000004,
+        "doctop": 2458.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 120.664,
+        "y0": 697.516,
+        "x1": 127.336,
+        "y1": 709.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 4.0,
+        "ncs": "DeviceGray",
+        "text": "e",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 82.48400000000004,
+        "bottom": 94.48400000000004,
+        "doctop": 2458.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 127.336,
+        "y0": 697.516,
+        "x1": 130.672,
+        "y1": 709.516,
+        "width": 3.3359999999999985,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 4.0,
+        "ncs": "DeviceGray",
+        "text": " ",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 82.48400000000004,
+        "bottom": 94.48400000000004,
+        "doctop": 2458.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.0,
+        "upright": 1.0,
+        "x0": 130.672,
+        "y0": 697.516,
+        "x1": 136.672,
+        "y1": 709.516,
+        "width": 6.0,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 4.0,
+        "ncs": "DeviceGray",
+        "text": "c",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 82.48400000000004,
+        "bottom": 94.48400000000004,
+        "doctop": 2458.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 136.672,
+        "y0": 697.516,
+        "x1": 143.344,
+        "y1": 709.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 4.0,
+        "ncs": "DeviceGray",
+        "text": "o",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 82.48400000000004,
+        "bottom": 94.48400000000004,
+        "doctop": 2458.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 143.344,
+        "y0": 697.516,
+        "x1": 150.016,
+        "y1": 709.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 4.0,
+        "ncs": "DeviceGray",
+        "text": "n",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 82.48400000000004,
+        "bottom": 94.48400000000004,
+        "doctop": 2458.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 150.01600000000002,
+        "y0": 697.516,
+        "x1": 153.35200000000003,
+        "y1": 709.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 4.0,
+        "ncs": "DeviceGray",
+        "text": "t",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 82.48400000000004,
+        "bottom": 94.48400000000004,
+        "doctop": 2458.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 153.352,
+        "y0": 697.516,
+        "x1": 160.024,
+        "y1": 709.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 4.0,
+        "ncs": "DeviceGray",
+        "text": "e",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 82.48400000000004,
+        "bottom": 94.48400000000004,
+        "doctop": 2458.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 6.672000000000001,
+        "upright": 1.0,
+        "x0": 160.024,
+        "y0": 697.516,
+        "x1": 166.696,
+        "y1": 709.516,
+        "width": 6.671999999999997,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 4.0,
+        "ncs": "DeviceGray",
+        "text": "n",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 82.48400000000004,
+        "bottom": 94.48400000000004,
+        "doctop": 2458.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 166.696,
+        "y0": 697.516,
+        "x1": 170.032,
+        "y1": 709.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 4.0,
+        "ncs": "DeviceGray",
+        "text": "t",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 82.48400000000004,
+        "bottom": 94.48400000000004,
+        "doctop": 2458.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 170.03199999999998,
+        "y0": 697.516,
+        "x1": 173.368,
+        "y1": 709.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 4.0,
+        "ncs": "DeviceGray",
+        "text": ".",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 82.48400000000004,
+        "bottom": 94.48400000000004,
+        "doctop": 2458.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 173.368,
+        "y0": 697.516,
+        "x1": 176.704,
+        "y1": 709.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 4.0,
+        "ncs": "DeviceGray",
+        "text": ".",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 82.48400000000004,
+        "bottom": 94.48400000000004,
+        "doctop": 2458.484
+      },
+      {
+        "fontname": "Helvetica",
+        "adv": 3.3360000000000003,
+        "upright": 1.0,
+        "x0": 176.704,
+        "y0": 697.516,
+        "x1": 180.04000000000002,
+        "y1": 709.516,
+        "width": 3.3360000000000127,
+        "height": 12.0,
+        "size": 12.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 4.0,
+        "ncs": "DeviceGray",
+        "text": ".",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 82.48400000000004,
+        "bottom": 94.48400000000004,
+        "doctop": 2458.484
+      }
+    ]
+  },
+  {
+    "page_num": 5,
+    "chars": [
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 14.44,
+        "upright": 1.0,
+        "x0": 100.0,
+        "y0": 695.86,
+        "x1": 114.44,
+        "y1": 715.86,
+        "width": 14.439999999999998,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 5.0,
+        "ncs": "DeviceGray",
+        "text": "C",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 76.13999999999999,
+        "bottom": 96.13999999999999,
+        "doctop": 3244.14
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 12.219999999999999,
+        "upright": 1.0,
+        "x0": 114.44,
+        "y0": 695.86,
+        "x1": 126.66,
+        "y1": 715.86,
+        "width": 12.219999999999999,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 5.0,
+        "ncs": "DeviceGray",
+        "text": "h",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 76.13999999999999,
+        "bottom": 96.13999999999999,
+        "doctop": 3244.14
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 11.120000000000001,
+        "upright": 1.0,
+        "x0": 126.66,
+        "y0": 695.86,
+        "x1": 137.78,
+        "y1": 715.86,
+        "width": 11.120000000000005,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 5.0,
+        "ncs": "DeviceGray",
+        "text": "a",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 76.13999999999999,
+        "bottom": 96.13999999999999,
+        "doctop": 3244.14
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 12.219999999999999,
+        "upright": 1.0,
+        "x0": 137.78,
+        "y0": 695.86,
+        "x1": 150.0,
+        "y1": 715.86,
+        "width": 12.219999999999999,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 5.0,
+        "ncs": "DeviceGray",
+        "text": "p",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 76.13999999999999,
+        "bottom": 96.13999999999999,
+        "doctop": 3244.14
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 6.66,
+        "upright": 1.0,
+        "x0": 150.0,
+        "y0": 695.86,
+        "x1": 156.66,
+        "y1": 715.86,
+        "width": 6.659999999999997,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 5.0,
+        "ncs": "DeviceGray",
+        "text": "t",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 76.13999999999999,
+        "bottom": 96.13999999999999,
+        "doctop": 3244.14
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 11.120000000000001,
+        "upright": 1.0,
+        "x0": 156.66,
+        "y0": 695.86,
+        "x1": 167.78,
+        "y1": 715.86,
+        "width": 11.120000000000005,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 5.0,
+        "ncs": "DeviceGray",
+        "text": "e",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 76.13999999999999,
+        "bottom": 96.13999999999999,
+        "doctop": 3244.14
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 7.78,
+        "upright": 1.0,
+        "x0": 167.78,
+        "y0": 695.86,
+        "x1": 175.56,
+        "y1": 715.86,
+        "width": 7.780000000000001,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 5.0,
+        "ncs": "DeviceGray",
+        "text": "r",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 76.13999999999999,
+        "bottom": 96.13999999999999,
+        "doctop": 3244.14
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 5.5600000000000005,
+        "upright": 1.0,
+        "x0": 175.56,
+        "y0": 695.86,
+        "x1": 181.12,
+        "y1": 715.86,
+        "width": 5.560000000000002,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 5.0,
+        "ncs": "DeviceGray",
+        "text": " ",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 76.13999999999999,
+        "bottom": 96.13999999999999,
+        "doctop": 3244.14
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 11.120000000000001,
+        "upright": 1.0,
+        "x0": 181.12,
+        "y0": 695.86,
+        "x1": 192.24,
+        "y1": 715.86,
+        "width": 11.120000000000005,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 5.0,
+        "ncs": "DeviceGray",
+        "text": "2",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 76.13999999999999,
+        "bottom": 96.13999999999999,
+        "doctop": 3244.14
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 13.34,
+        "upright": 1.0,
+        "x0": 100.0,
+        "y0": 665.86,
+        "x1": 113.34,
+        "y1": 685.86,
+        "width": 13.340000000000003,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 5.0,
+        "ncs": "DeviceGray",
+        "text": "P",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 106.13999999999999,
+        "bottom": 126.13999999999999,
+        "doctop": 3274.14
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 12.219999999999999,
+        "upright": 1.0,
+        "x0": 113.34,
+        "y0": 665.86,
+        "x1": 125.56,
+        "y1": 685.86,
+        "width": 12.219999999999999,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 5.0,
+        "ncs": "DeviceGray",
+        "text": "o",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 106.13999999999999,
+        "bottom": 126.13999999999999,
+        "doctop": 3274.14
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 5.5600000000000005,
+        "upright": 1.0,
+        "x0": 125.56,
+        "y0": 665.86,
+        "x1": 131.12,
+        "y1": 685.86,
+        "width": 5.560000000000002,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 5.0,
+        "ncs": "DeviceGray",
+        "text": "l",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 106.13999999999999,
+        "bottom": 126.13999999999999,
+        "doctop": 3274.14
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 11.120000000000001,
+        "upright": 1.0,
+        "x0": 131.12,
+        "y0": 665.86,
+        "x1": 142.24,
+        "y1": 685.86,
+        "width": 11.120000000000005,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 5.0,
+        "ncs": "DeviceGray",
+        "text": "y",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 106.13999999999999,
+        "bottom": 126.13999999999999,
+        "doctop": 3274.14
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 12.219999999999999,
+        "upright": 1.0,
+        "x0": 142.24,
+        "y0": 665.86,
+        "x1": 154.46,
+        "y1": 685.86,
+        "width": 12.219999999999999,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 5.0,
+        "ncs": "DeviceGray",
+        "text": "n",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 106.13999999999999,
+        "bottom": 126.13999999999999,
+        "doctop": 3274.14
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 12.219999999999999,
+        "upright": 1.0,
+        "x0": 154.45999999999998,
+        "y0": 665.86,
+        "x1": 166.67999999999998,
+        "y1": 685.86,
+        "width": 12.219999999999999,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 5.0,
+        "ncs": "DeviceGray",
+        "text": "o",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 106.13999999999999,
+        "bottom": 126.13999999999999,
+        "doctop": 3274.14
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 17.78,
+        "upright": 1.0,
+        "x0": 166.68,
+        "y0": 665.86,
+        "x1": 184.46,
+        "y1": 685.86,
+        "width": 17.78,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 5.0,
+        "ncs": "DeviceGray",
+        "text": "m",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 106.13999999999999,
+        "bottom": 126.13999999999999,
+        "doctop": 3274.14
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 5.5600000000000005,
+        "upright": 1.0,
+        "x0": 184.45999999999998,
+        "y0": 665.86,
+        "x1": 190.01999999999998,
+        "y1": 685.86,
+        "width": 5.560000000000002,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 5.0,
+        "ncs": "DeviceGray",
+        "text": "i",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 106.13999999999999,
+        "bottom": 126.13999999999999,
+        "doctop": 3274.14
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 11.120000000000001,
+        "upright": 1.0,
+        "x0": 190.01999999999998,
+        "y0": 665.86,
+        "x1": 201.14,
+        "y1": 685.86,
+        "width": 11.120000000000005,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 5.0,
+        "ncs": "DeviceGray",
+        "text": "a",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 106.13999999999999,
+        "bottom": 126.13999999999999,
+        "doctop": 3274.14
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 5.5600000000000005,
+        "upright": 1.0,
+        "x0": 201.14,
+        "y0": 665.86,
+        "x1": 206.7,
+        "y1": 685.86,
+        "width": 5.560000000000002,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 5.0,
+        "ncs": "DeviceGray",
+        "text": "l",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 106.13999999999999,
+        "bottom": 126.13999999999999,
+        "doctop": 3274.14
+      },
+      {
+        "fontname": "Helvetica-Bold",
+        "adv": 11.120000000000001,
+        "upright": 1.0,
+        "x0": 206.7,
+        "y0": 665.86,
+        "x1": 217.82,
+        "y1": 685.86,
+        "width": 11.120000000000005,
+        "height": 20.0,
+        "size": 20.0,
+        "mcid": null,
+        "tag": null,
+        "object_type": "char",
+        "page_number": 5.0,
+        "ncs": "DeviceGray",
+        "text": "s",
+        "stroking_color": [
+          0
+        ],
+        "non_stroking_color": [
+          0
+        ],
+        "top": 106.13999999999999,
+        "bottom": 126.13999999999999,
+        "doctop": 3274.14
+      }
+    ]
+  }
+]

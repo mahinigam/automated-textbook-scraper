@@ -1,0 +1,23 @@
+[
+  {
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Mathematics",
+    "title": "Real Numbers 1",
+    "book_id": "jemh101"
+  },
+  {
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Mathematics",
+    "title": "10 Mathematics",
+    "book_id": "jemh102"
+  },
+  {
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Mathematics",
+    "title": "Mathematics",
+    "book_id": "jemh1ps"
+  }
+]

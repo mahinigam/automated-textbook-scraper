@@ -1,0 +1,18 @@
+{
+  "book_id": "jemh102",
+  "metadata": {
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Mathematics",
+    "title": "10 Mathematics"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "",
+      "start_page": 11,
+      "end_page": 14,
+      "source_strategy": "fontsize"
+    }
+  ]
+}

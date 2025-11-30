@@ -1,0 +1,25 @@
+{
+  "book_id": "test_book",
+  "metadata": {
+    "board": "Unknown",
+    "class": "10",
+    "subject": "Mathematics",
+    "title": "Mathematics Class 10"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "Chapter 1: Real Numbers",
+      "start_page": 3,
+      "end_page": 4,
+      "source_strategy": "toc"
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "Chapter 2: Polynomials",
+      "start_page": 5,
+      "end_page": 5,
+      "source_strategy": "toc"
+    }
+  ]
+}

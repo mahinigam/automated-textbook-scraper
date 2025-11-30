@@ -1,0 +1,47 @@
+[
+  {
+    "page_num": 1,
+    "text": "Mathematics Class 10\nBoard: CBSE",
+    "width": 612.0,
+    "height": 792.0,
+    "is_scanned": true,
+    "ocr_applied": false,
+    "ocr_confidence": 0.0
+  },
+  {
+    "page_num": 2,
+    "text": "Table of Contents\nChapter 1: Real Numbers ....... 3\nChapter 2: Polynomials ........ 5",
+    "width": 612.0,
+    "height": 792.0,
+    "is_scanned": false,
+    "ocr_applied": false,
+    "ocr_confidence": 0.0
+  },
+  {
+    "page_num": 3,
+    "text": "Chapter 1\nReal Numbers\nIntroduction to Real Numbers...",
+    "width": 612.0,
+    "height": 792.0,
+    "is_scanned": false,
+    "ocr_applied": false,
+    "ocr_confidence": 0.0
+  },
+  {
+    "page_num": 4,
+    "text": "More content...",
+    "width": 612.0,
+    "height": 792.0,
+    "is_scanned": true,
+    "ocr_applied": false,
+    "ocr_confidence": 0.0
+  },
+  {
+    "page_num": 5,
+    "text": "Chapter 2\nPolynomials",
+    "width": 612.0,
+    "height": 792.0,
+    "is_scanned": true,
+    "ocr_applied": false,
+    "ocr_confidence": 0.0
+  }
+]

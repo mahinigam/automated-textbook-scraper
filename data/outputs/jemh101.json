@@ -1,0 +1,18 @@
+{
+  "book_id": "jemh101",
+  "metadata": {
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Mathematics",
+    "title": "Real Numbers 1"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "A N   R",
+      "start_page": 9,
+      "end_page": 9,
+      "source_strategy": "fontsize"
+    }
+  ]
+}

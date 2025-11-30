@@ -1,0 +1,11 @@
+[
+  {
+    "page_num": 1,
+    "text": "OCR Text",
+    "width": 100.0,
+    "height": 100.0,
+    "is_scanned": true,
+    "ocr_applied": true,
+    "ocr_confidence": 90.0
+  }
+]
